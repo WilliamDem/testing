@@ -1,5 +1,5 @@
 <?php
-if(isset($_POST["nombre"]) && isset($_POST["email"]) && isset($_POST["comentario"]) ){
+if(isset($_POST["nombre"]) && isset($_POST["email"]) && isset($_POST["mensaje"]) ){
 $to = "grafchac@gmail.com";
 $subject = "Asunto: ".$_POST["asunto"]."\n";
 $contenido .= "Nombre: ".$_POST["nombre"]."\n";
