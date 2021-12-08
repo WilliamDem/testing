@@ -1,0 +1,111 @@
+
+.card1{
+    margin-left: 12rem;
+    float: left;
+}
+
+.card1-img{
+    width: 17rem;
+}
+
+.card1-info{
+    width:23rem;
+    margin-left: -2rem;
+}
+
+.card1-title{
+    color: #359EF9;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card1-subtitle{
+    color: #242424;
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.card1-text{
+    margin-top: 8px;
+    width: 23rem;
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+
+.card2{
+    float: left;
+    margin-left: 11rem;
+    margin-top: 1rem;
+
+}
+
+.card2-img{
+    width: 20rem;
+}
+
+.card2-info{
+    width:25rem;
+    margin-left: -2rem;
+    margin-top: 2.3rem;
+}
+
+.card2-title{
+    color: #359EF9;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card2-subtitle{
+    color: #242424;
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.card2-text{
+    margin-top: 8px;
+    width: 23rem;
+    font-size: 15px;
+    font-weight: 400;
+    
+}
+
+.card3{
+    float: left;
+    margin-left: 12rem;
+    
+
+}
+
+.card3-img{
+    width: 20rem;
+}
+
+.card3-info{
+    width:25rem;
+    margin-left: -2rem;
+    margin-top: 2.3rem;
+}
+
+.card3-title{
+    color: #359EF9;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+.card3-subtitle{
+    color: #242424;
+    margin-top: 8px;
+    font-size: 15px;
+    font-weight: 550;
+}
+
+.card3-text{
+    margin-top: 8px;
+    width: 23rem;
+    font-size: 15px;
+    font-weight: 400;
+    
+}
